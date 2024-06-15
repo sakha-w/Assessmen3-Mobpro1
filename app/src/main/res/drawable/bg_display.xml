@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="100dp"
+    android:width="100dp"
+    android:viewportHeight="100"
+    android:viewportWidth="100" >
+    <group
+        android:name="triableGroup">
+        <path
+            android:name="roundedRect"
+            android:fillColor="#C6EBC5"
+            android:pathData="M 0,10 a 10,10 0 0 1 10,0 L 90,0 a 10,10 0 0 1 10,10 L 100,60 a 10,10 0 0 1 -10,10 L 10,80 a 10,10 0 0 1 -10,-10 L 0,20 a 10,10 0 0 1 10,-10 Z" />
+
+    </group>
+</vector>

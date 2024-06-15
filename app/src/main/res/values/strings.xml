@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fashionStore</string>
+    <string name="produk">Daftar Produk</string>
+    <string name="gambar">Gambar</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="tambah_produk">Tambah Produk</string>
+</resources>
